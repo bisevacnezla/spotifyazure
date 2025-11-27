@@ -1,0 +1,9 @@
+{
+	"name": "spotifyazureprojectnezla",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6b0ff7d9-056c-477b-82cc-21b18c06f341",
+		"tenantId": "a35f00aa-a3ca-4296-a613-8e573e38efb6"
+	}
+}
